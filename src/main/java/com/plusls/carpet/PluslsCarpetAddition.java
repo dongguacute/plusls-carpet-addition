@@ -14,6 +14,7 @@ import org.apache.logging.log4j.core.config.Configurator;
 import top.hendrixshen.magiclib.carpet.impl.WrappedSettingManager;
 import top.hendrixshen.magiclib.util.MiscUtil;
 
+
 @SuppressWarnings("removal")
 public class PluslsCarpetAddition implements ModInitializer, DedicatedServerModInitializer {
     @Override
